@@ -136,7 +136,6 @@ crashlytics-build.properties
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
 
-# extra junk
 /build/
 *.apk
 *_BackUpThisFolder_ButDontShipItWithYourGame/
